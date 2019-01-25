@@ -1,4 +1,9 @@
-# Laravel Echo Server
+# Laravel Echo Server 
+
+ - Thanks to `socket.io-redis` works on load balancer
+
+![multi-node](https://s3-eu-west-1.amazonaws.com/sharelist2me/multi_nodes.png)
+
 
 NodeJs server for Laravel Echo broadcasting with Socket.io.
 
